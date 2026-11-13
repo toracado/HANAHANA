@@ -7,7 +7,7 @@
 #pragma comment(lib, "winmm.lib")
 
 //テスト
-
+//テスト
 
 
 // プロトタイプ宣言
